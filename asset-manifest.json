@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thunderducky.github.io/office-hours-rainy-thrusday/static/css/main.d1b05096.chunk.css",
+    "main.js": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/main.212dcd23.chunk.js",
+    "main.js.map": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/main.212dcd23.chunk.js.map",
+    "runtime-main.js": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/runtime-main.2681221b.js",
+    "runtime-main.js.map": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/runtime-main.2681221b.js.map",
+    "static/js/2.6e0381ee.chunk.js": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/2.6e0381ee.chunk.js",
+    "static/js/2.6e0381ee.chunk.js.map": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/2.6e0381ee.chunk.js.map",
+    "index.html": "/thunderducky.github.io/office-hours-rainy-thrusday/index.html",
+    "precache-manifest.46cad1964c278716763e7a4823055162.js": "/thunderducky.github.io/office-hours-rainy-thrusday/precache-manifest.46cad1964c278716763e7a4823055162.js",
+    "service-worker.js": "/thunderducky.github.io/office-hours-rainy-thrusday/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/thunderducky.github.io/office-hours-rainy-thrusday/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6e0381ee.chunk.js.LICENSE.txt": "/thunderducky.github.io/office-hours-rainy-thrusday/static/js/2.6e0381ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2681221b.js",
+    "static/js/2.6e0381ee.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.212dcd23.chunk.js"
+  ]
+}
